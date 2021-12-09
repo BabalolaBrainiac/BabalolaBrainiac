@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Babalola Daniel
 - 👀 I’m a Fullstack Dev, major stack being MERN, but also work with languages and stacks outside this
+- Web3 Beginner; Junior Solidity Engineer
 - I am interested in Full-Stack Or Backend Dev Roles
 - 🌱 I’m currently developing my cloud architecture(AWS and Azure) and infrastructure skills, DevOps, and working on some interesting projects with some firms/individuals
 - 💞️ I’m looking to collaborate on open source projects, or anything interesting really.
