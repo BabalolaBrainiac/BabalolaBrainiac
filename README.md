@@ -1,11 +1,31 @@
-- 👋 Hi, I’m Babalola Daniel
-- 👀 I’m a Fullstack Dev, major stack being MERN, but also work with languages and stacks outside this
-- Web3 Beginner; Junior Solidity Engineer
-- I am interested in Full-Stack, Backend Dev, and Solidity Engineering roles
-- 🌱 I’m currently developing my cloud architecture(AWS)/infrastructure skills, Web3, DevOps, and working on some interesting projects with some firms/individuals
-- 💞️ I’m looking to collaborate on open source projects, or anything interesting really.
-- I am always seeking better ways to solve problems. Individually and Globally
-- 📫 How to reach me? Send an email to @Babalolaopedaniel@gmail.com
+- 👋 Hi, I’m Babalola Opeyemi Daniel
+- I am a Back-End Developer, and my Skill Set/Stacks(which i am constantly developing and expanding) are listed below
+
+- TypeScript
+- Java
+- Node.js
+- Nest
+- Express.js
+- Spring Data
+- Spring Cloud
+- Spring Boot
+- Spring MVC
+- Spring Framework
+- Spring Security
+- Java Database Connectivity (JDBC)
+- Developing Microservices and Monolithic architectured applications
+- MySQL
+- MongoDB
+- Postgres
+- Prisma
+- GraphQL
+- Docker
+- Tableau for Data Analysis
+
+
+I am always seeking better ways to solve problems by always improving on these skills, as is evident in the evolotuion of my work. I gurantee optimal productivity and absolute commitment to tasks.
+
+📫 How to reach me? Send an email to @Babalolaopedaniel@gmail.com
 
 <!---
 BabalolaBrainiac/BabalolaBrainiac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
