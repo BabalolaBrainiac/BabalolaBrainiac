@@ -13,6 +13,9 @@
 - Spring Framework
 - Spring Security
 - Java Database Connectivity (JDBC)
+- Solidity
+- Smart Contracts
+- Knowledge of the EVM, and Blockchain development technologies
 - Developing Microservices and Monolithic architectured applications
 - MySQL
 - MongoDB
