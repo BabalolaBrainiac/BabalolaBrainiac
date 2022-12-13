@@ -13,6 +13,7 @@
 - Spring Framework
 - Spring Security
 - Java Database Connectivity (JDBC)
+- Quarkus framework, GraalVM; Reactive Programming
 - Solidity
 - Smart Contracts
 - Knowledge of the EVM, and Blockchain development technologies
