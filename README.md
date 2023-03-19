@@ -1,10 +1,13 @@
 - 👋 Hi, I’m Babalola Opeyemi Daniel
-- I am a Back-End Developer, and my Skill Set/Stacks(which i am constantly developing and expanding) are listed below
+- I am a highly skilled and experienced Back-End Developer, and my Skill Set/Stacks(which i am constantly developing and expanding) are listed below
 
 - TypeScript
 - Java
 - Node.js
-- Nest
+- NestJS
+- NextJS
+- Elixir
+- Pheonix Framework
 - Express.js
 - Spring Data
 - Spring Cloud
@@ -29,7 +32,7 @@
 
 I am always seeking better ways to solve problems by always improving on these skills, as is evident in the evolotuion of my work. I gurantee optimal productivity and absolute commitment to tasks.
 
-📫 How to reach me? Send an email to @Babalolaopedaniel@gmail.com
+📫 How to reach me? Send an email to @babalolaopedaniel@gmail.com
 
 <!---
 BabalolaBrainiac/BabalolaBrainiac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
