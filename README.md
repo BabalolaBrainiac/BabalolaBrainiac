@@ -18,7 +18,7 @@
 - Java Database Connectivity (JDBC)
 - Entity Framework Core
 - Test Driven Development
-- Smart Contracts
+- GRPC
 - Knowledge of the EVM, and Blockchain development technologies
 - Developing Microservices and Monolithic architectured applications
 - MySQL
