@@ -6,7 +6,7 @@
 - Node.js
 - NestJS
 - NextJS
-- Elixir
+- C#
 - Pheonix Framework
 - Express.js
 - Spring Data
@@ -16,8 +16,8 @@
 - Spring Framework
 - Spring Security
 - Java Database Connectivity (JDBC)
-- Quarkus framework, GraalVM; Reactive Programming
-- Solidity
+- Entity Framework Core
+- Test Driven Development
 - Smart Contracts
 - Knowledge of the EVM, and Blockchain development technologies
 - Developing Microservices and Monolithic architectured applications
