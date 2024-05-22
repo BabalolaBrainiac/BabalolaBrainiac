@@ -27,6 +27,7 @@
 - Prisma
 - GraphQL
 - Docker
+- Terraform
 - Tableau for Data Analysis
 
 
