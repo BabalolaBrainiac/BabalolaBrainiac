@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Babalola Opeyemi Daniel
-- I am a highly skilled and experienced Back-End Developer, and my Skill Set/Stacks(which i am constantly developing and expanding) are listed below
+- I am a highly skilled and experienced Software Developer, and my Skill Set/Stacks(which i am constantly developing and expanding) are listed below
 
 - TypeScript
 - Java
