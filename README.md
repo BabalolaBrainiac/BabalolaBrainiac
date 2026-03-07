@@ -11,7 +11,6 @@ I'm a highly skilled and results-driven Software Engineer with over 5 years of e
 ## 🚀 About Me
 
 - 🔭 **Current Role:** Software Engineer at HeySavi LTD
-- 💼 **Previous:** Software Engineer at HeySavi LTD
 - 🌍 **Location:** London, United Kingdom
 - 📚 **Education:** Master's Degree in Computing at Edge Hill University
 - 🎯 **Goal:** To deliver innovative, scalable solutions while contributing to cutting-edge technology projects, particularly in AI/ML and event-driven architectures
